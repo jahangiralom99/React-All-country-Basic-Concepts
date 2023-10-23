@@ -6,7 +6,7 @@ function App() {
 
   return (
     <React.Fragment>
-      <h1 className='text-center text-4xl font-bold'>My Name Is Jahangir ALom</h1>
+      <h1 className='text-center text-4xl font-bold'>React World tour !!!!</h1>
       <Countries/>
     </React.Fragment>
   )
